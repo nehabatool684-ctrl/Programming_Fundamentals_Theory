@@ -1,4 +1,4 @@
-## IPO Chart
+ IPO Chart
 
 | Input | Process | Output |
 |---|---|---|
