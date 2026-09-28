@@ -1,2 +1,2 @@
 ## Question 4
-![Question 4](IMG-20260928-WA0083%20part%20 IMG-20260928-WA0083.jpg)
+<img src="IMG-20260928-WA0083.jpg" alt="Alt text" width="500">
