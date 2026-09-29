@@ -1,1 +1,1 @@
-![Alt text](C:\Users\mbilal\Downloads\Q1 PartA)
+![Question 1](20260928_194532.jpg.jpeg)
