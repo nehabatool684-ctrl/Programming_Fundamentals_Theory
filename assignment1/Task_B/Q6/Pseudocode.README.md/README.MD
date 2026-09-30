@@ -1,3 +1,4 @@
+![Question6 pseudocode](IMG-20260928-WA0081.jpg)
 ![Question 6 pseudocode](IMG-20260928-WA0080.jpg)
 ![Question 6 pseudocode](IMG-20260928-WA0079.jpg)
 ![Question 6 pseudocode](IMG-20260928-WA0070.jpg)
