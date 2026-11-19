@@ -1,2 +1,2 @@
 # output
-![Question 2 Solution](q2 output.png)
+![Question 2 Solution](q2 output.PNG)
