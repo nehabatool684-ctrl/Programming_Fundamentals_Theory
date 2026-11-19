@@ -1,1 +1,1 @@
-![Question 1 Solution]()
+![Question 1 Solution](output.png)
